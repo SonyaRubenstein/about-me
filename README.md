@@ -80,7 +80,14 @@ Hello dears! Thank you for looking at my portfolio, where I will be happy to sha
 - setting ignore in Git (.gitignore)
 - Issues, pull request, GitHub Pages
 
-Currently I have a certificate of successful study of "Fundamentals of OOP"\
+Currently I have a certificate of successful study of: 
+- _**"Fundamentals of OOP"**_\
 ![certificate OOP](certificate.jpg)
+
+- _**"Java basics"**_\
+![certificate Основы Java](certificate%20Основы%20Java.jpg)
+
+- _**"GIT - version control system"**_\
+![certificate GIT](certificate%20GIT.jpg)
 
 I also successfully implemented the first course project "Converter to text graphics" [myConverter](https://github.com/SonyaRubenstein/myConverter) 
